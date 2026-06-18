@@ -14,9 +14,9 @@ node server.js
 
 Then open the printed URL:
 
-- On this PC: `http://localhost:8000`
-- From a phone/tablet on the **same Wi-Fi**: `http://<this-PC-LAN-IP>:8000`
-  (the server prints the exact address, e.g. `http://192.168.x.x:8000`)
+- On this PC: `http://localhost:8888`
+- From a phone/tablet on the **same Wi-Fi**: `http://<this-PC-LAN-IP>:8888`
+  (the server prints the exact address, e.g. `http://192.168.x.x:8888`)
 
 The server is zero-dependency (Node built-ins only). On Windows, allow the firewall
 prompt for Node on **private** networks so other devices can connect.
@@ -30,7 +30,7 @@ Change the port with `PORT=3000 node server.js`.
 The app is fully static and uses relative paths, so it runs on GitHub Pages as-is.
 A workflow at [.github/workflows/deploy.yml](.github/workflows/deploy.yml) publishes
 only the runtime files (`index.html`, `styles.css`, `app.js`, `questions.json`) — not
-`mock.pdf`, `server.js`, or the build pipeline.
+`mock.docx`, `server.js`, or the extraction script.
 
 One-time setup:
 
@@ -53,24 +53,25 @@ One-time setup:
 | `index.html`     | The single screen                                               |
 | `styles.css`     | Styling (card, choice states, responsive)                       |
 | `app.js`         | Quiz logic: load JSON, shuffle, reveal answer, loop             |
-| `questions.json` | 198 questions: `{ id, exam, question, choices[], correctIndex }`|
+| `questions.json` | 245 questions: `{ id, exam, question, choices[], correctIndex }`|
 | `server.js`      | Zero-dependency LAN static server                               |
 
 ## How the questions were extracted
 
-`mock.pdf` was produced by "Microsoft Print to PDF" and has **no text layer** — every
-glyph is a vector outline, and the correct answer is marked only by a colored highlight.
-So text parsing/OCR alone couldn't recover it. The pages were rendered to images
-(PyMuPDF) and transcribed via vision into structured JSON.
+The source is `mock.docx`. A `.docx` is a zip of XML with real text, so no OCR/vision is
+needed — [_extract_docx.py](_extract_docx.py) reads `word/document.xml` directly. The
+correct answer in each question is the choice with a **blue shading** (`w:shd` fill
+`9EC4E7`); other shading colors are stray noise.
 
-The PDF turned out to contain **three different exams** with inconsistent numbering
-(two restart at question 1), so original printed numbers can't be unique across the app.
-Each question therefore gets a single stable global `id` (1–198) for display and for the
-non-repeat/loop logic; the source exam is kept in the `exam` field.
+The document holds **three exam sections** with inconsistent formatting (some choices are
+numbered lists, some are manual `a)`/`b)` text, some stems are glued to their first
+choice), so the parser groups by content: a stem ends in `:`/`?`, and the lines after it
+are its choices. Open-ended blocks and image captions are skipped, and Section C's
+duplicated questions are deduped. Each question gets a single stable global `id` (1–245)
+for display and for the non-repeat/loop logic; the source exam is kept in the `exam` field.
 
-The reproducible build pipeline is kept under `_raw/` (per-section transcriptions) and
-`_consolidate.py` (dedupe + filter + assign ids → `questions.json`):
+Regenerate `questions.json` from the docx with:
 
 ```
-python _consolidate.py
+python _extract_docx.py
 ```
