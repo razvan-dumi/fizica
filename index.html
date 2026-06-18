@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Examify — exersează pentru examen</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="card" id="card">
+    <header class="card__head">
+      <span class="badge" id="exam">&nbsp;</span>
+      <span class="meta">
+        <span id="qid">#—</span>
+        <span class="meta__sep">·</span>
+        <span id="progress">— / —</span>
+      </span>
+    </header>
+
+    <h1 class="question" id="question">Se încarcă întrebările…</h1>
+
+    <ul class="choices" id="choices"></ul>
+
+    <footer class="card__foot">
+      <span class="status" id="status">&nbsp;</span>
+      <button class="next" id="next" hidden>Următoarea →</button>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

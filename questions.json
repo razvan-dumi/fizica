@@ -1,0 +1,2421 @@
+[
+ {
+  "id": 1,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Ordinul de marime al lungimii de unda a sunetelor audibile se incadreaza intre:",
+  "choices": [
+   "1 m - 100 m",
+   "0,02 m - 20 m",
+   "0,003 m - 3 m",
+   "2 m - 200 m",
+   "0,02 m - 2 m"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 2,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Un sunet de 650 Hz poate fi incadrat in categoria:",
+  "choices": [
+   "sunetelor joase",
+   "sunetelor medii",
+   "sunetelor inalte",
+   "ultrasunetelor",
+   "infrasunetelor"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 3,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Nivelul sonor reprezinta:",
+  "choices": [
+   "intensitatea sunetului intr-o incapere",
+   "logaritmul intensitatii sunetului raportat la intensitatea sonora de referinta",
+   "logaritmul puterii sonore",
+   "frecventa fundamentala a sunetului",
+   "timpul de propagare a undei sonore"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 4,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Membranele vibrante absorb cel mai bine sunetele cu frecvente:",
+  "choices": [
+   "joase",
+   "medii",
+   "inalte",
+   "ultrasonice",
+   "egale pentru toate frecventele"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 5,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Sunetul poate pune in vibratie un element de constructie masiv, cum ar fi o placa sau un perete?",
+  "choices": [
+   "nu",
+   "da",
+   "numai daca intervine si radiatia infrasonore",
+   "numai daca peretele este perfect poros",
+   "numai daca frecventa este nula"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 6,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Ecoul de fluturare apare datorita:",
+  "choices": [
+   "incorecte pozitionari a anjelor laterale ale scenei",
+   "paralelismului suprafetelor reflectante opuse sursei de sunet",
+   "paralelismului dintre doua suprafete tratate fonoabsorbant",
+   "folosirii exclusive a materialelor poroase",
+   "scaderii complete a reverberatiei"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 7,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Intr-o sala cu destinatie acustica, tavanul inalt de peste 8 m:",
+  "choices": [
+   "se recomanda in orice situatie",
+   "este necesar daca numarul de spectatori este mare",
+   "poate genera ecou",
+   "elimina reflexiile intarziate",
+   "reduce automat durata de reverberatie"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 8,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Amplificarea sonora cu mijloace electroacustice se recomanda in cazul:",
+  "choices": [
+   "salilor de concert",
+   "salilor foarte mari",
+   "teatrelor dramatice de dimensiuni mici",
+   "camerelor de locuit",
+   "salilor in care se urmareste exclusiv auditia naturala"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 9,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Tavanul salilor de spectacole, in jumatatea din fata a salii, se recomanda:",
+  "choices": [
+   "sa fie reflectant",
+   "sa fie tratat fonoabsorbant",
+   "sa fie transparent pentru sunet",
+   "sa fie complet perforat si fara rol acustic",
+   "sa fie acoperit numai cu materiale moi"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 10,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Redarea culorii este superioara pentru:",
+  "choices": [
+   "lampi cu descarcari in vapori de mercur fara strat luminofor",
+   "lampi fluorescente cu redare foarte buna",
+   "lampi cu descarcari in vapori de sodiu de joasa presiune",
+   "lampi monocromatice",
+   "surse fara control al compozitiei spectrale"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 11,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Termenul de lampa desemneaza:",
+  "choices": [
+   "sursa electrica de lumina",
+   "aparatul de iluminat",
+   "corpul de iluminat",
+   "sistemul complet de comanda",
+   "dispozitivul de fixare in plafon"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 12,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Managementul energetic al iluminatului este necesar deoarece:",
+  "choices": [
+   "numai in acest mod se realizeaza confortul vizual",
+   "astfel se realizeaza protectia mediului",
+   "astfel se poate asigura o distributie echilibrata a luminantelor",
+   "reduce numai consumul de lumina naturala",
+   "permite folosirea oricarei surse fara calcul"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 13,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Solutiile de protectie a operelor de arta impotriva razelor ultraviolete sunt:",
+  "choices": [
+   "expunerea in casete de protectie",
+   "folosirea corpurilor de iluminat cu filtre UV",
+   "expunerea la lumina naturala",
+   "iluminarea numai cu vapori de sodiu",
+   "marirea timpului de expunere"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 14,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Elementele cuantificabile ale mediului luminos interior apartin de:",
+  "choices": [
+   "distributia fluxului",
+   "distributia luminantelor",
+   "directionarea luminii ca efect plastic",
+   "culoarea aparenta a luminii",
+   "modelarea prin contraste"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 15,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Indicele de izolare acustica masurat in laborator este, in mod obisnuit:",
+  "choices": [
+   "mai mare",
+   "mai mic",
+   "egal",
+   "independent de alcatuirea elementului",
+   "relevant doar pentru zgomotul de impact"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 16,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Durata de reverberatie reprezinta timpul de descrestere a nivelului sonor cu:",
+  "choices": [
+   "20 dB",
+   "30 dB",
+   "60 dB",
+   "6 dB",
+   "80 dB"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 17,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Principalul mod prin care un element de constructie masiv izoleaza la zgomot aerian este:",
+  "choices": [
+   "prin masa",
+   "prin vibratii de ansamblu",
+   "prin porozitatea specifica mica",
+   "prin absorbtia aerului interior",
+   "prin transparenta acustica a materialului"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 18,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Nivelul de zgomot admisibil intr-o incapere de locuit, in reglementarile din Romania, este:",
+  "choices": [
+   "35 dB",
+   "30 dB",
+   "in functie de nivelul de zgomot exterior",
+   "80 dB",
+   "60 dB"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 19,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Ingrosarea sapei suport a pardoselii:",
+  "choices": [
+   "supradimensioneaza izolarea de ansamblu a planseului",
+   "elimina complet zgomotul de impact",
+   "este echivalenta cu o dala flotanta",
+   "reduce numai zgomotul aerian exterior",
+   "nu are niciun efect asupra comportarii acustice"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 20,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "O octava reprezinta:",
+  "choices": [
+   "un sunet muzical",
+   "un interval de dublare a frecventei sonore",
+   "o varietate armonica a frecventei sunetului",
+   "o scadere de 10 dB",
+   "o unitate de masura a intensitatii sonore"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 21,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Un sunet de 550 Hz poate fi incadrat in categoria sunetelor:",
+  "choices": [
+   "joase",
+   "medii",
+   "inalte",
+   "ultrasunetelor",
+   "infrasunetelor"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 22,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Nivelul sonor reprezinta (varianta 2):",
+  "choices": [
+   "intensitatea sunetului intr-o incapere",
+   "logaritmul intensitatii sunetului raportate la intensitatea sonora de referinta",
+   "logaritmul puterii sonore",
+   "lungimea de unda a sunetului",
+   "durata de reverberatie a incaperii"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 23,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Pentru absorbtia sunetului, porozitatea unui material:",
+  "choices": [
+   "este utila",
+   "este contraindicata",
+   "este indiferenta",
+   "reduce complet transmisia structurala",
+   "transforma materialul in reflector perfect"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 24,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Masurile generale de protectie acustica includ:",
+  "choices": [
+   "reprezinta intotdeauna investitii suplimentare",
+   "se refera numai la izolarea elementelor de constructie",
+   "includ interventii la nivel de partiu",
+   "se aplica doar la instalatiile de ventilare",
+   "se refera exclusiv la materialele fonoabsorbante"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 25,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Reducerea nivelului de zgomot de impact prin interpunere presupune:",
+  "choices": [
+   "ingrosarea sapei suport a pardoselii",
+   "utilizarea unei pardoseli pe dala flotanta",
+   "utilizarea unei pardoseli moi",
+   "marirea suprafetei vitrate",
+   "tratarea antifonica a pardoselii"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 26,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Auditia optima recomanda ca suprafata ocupata de public:",
+  "choices": [
+   "sa aiba o panta similara cu panta pentru vizibilitate",
+   "sa fie orizontala",
+   "sa aiba o panta de 50%",
+   "sa fie complet plana si paralela cu tavanul",
+   "sa fie invers inclinata fata de scena"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 27,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Comparand sali cu acelasi volum, durata de reverberatie recomandata:",
+  "choices": [
+   "este mai mica intr-un cinematograf fata de o sala de concert",
+   "este mai mica intr-o sala de muzica fata de o sala de sedinte",
+   "depinde numai de volum",
+   "este identica indiferent de functiune",
+   "este mai mare in salile pentru vorbire decat in salile pentru muzica"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 28,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Compozitia stratului luminofor determina:",
+  "choices": [
+   "valoarea indicelui de redare a culorii",
+   "valoarea indicelui incaperii",
+   "durata de viata a lampii",
+   "coeficientul de absorbtie acustica",
+   "izolarea la zgomot aerian"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 29,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Sursa luminoasa a fibrei optice se afla in:",
+  "choices": [
+   "ansamblul fibrelor",
+   "generator",
+   "zona terminala",
+   "stratul de protectie al fibrei",
+   "peretele luminat"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 30,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Lumenul este unitatea de masura a:",
+  "choices": [
+   "intensitatii luminoase",
+   "fluxului luminos",
+   "iluminarii",
+   "luminantei",
+   "temperaturii de culoare"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 31,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Lumina mascata in scafe de lumina se obtine prin:",
+  "choices": [
+   "tavan luminos",
+   "tavan luminat",
+   "perete luminos",
+   "pardoseala transparenta",
+   "flux luminos nul"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 32,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Conform legii conservarii fluxului luminos, egala cu fluxul incident este:",
+  "choices": [
+   "suma fluxului reflectat, absorbit si transmis",
+   "suma fluxului absorbit",
+   "suma fluxului reflectat si absorbit, minus cel transmis",
+   "numai fluxul absorbit",
+   "numai fluxul reflectat"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 33,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Compozitiile arhitecturale masive sunt cel mai bine puse in valoare:",
+  "choices": [
+   "prin combinarea fluxului luminos exterior pe plinuri",
+   "prin iluminarea exclusiva a golurilor",
+   "prin eliminarea umbrelor",
+   "prin iluminare uniforma fara contraste",
+   "prin ascunderea completa a volumului in intuneric"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 34,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Pentru salile cu destinatie acustica, forma in plan:",
+  "choices": [
+   "se recomanda sa fie cat mai regulata",
+   "nu influenteaza calitatile acustice",
+   "se recomanda sa nu fie regulata",
+   "trebuie sa fie obligatoriu patrata",
+   "trebuie sa fie circulara perfecta"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 35,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Panourile suspendate in zona scenei la sali inalte:",
+  "choices": [
+   "micsoreaza durata de reverberatie",
+   "maresc durata de reverberatie",
+   "dau reflexii rapide si imbunatatesc claritatea auditiei",
+   "anuleaza complet sunetul direct",
+   "transforma sala intr-un spatiu fonoizolant"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 36,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Conform legii masei, izolarea la zgomot aerian a unui element de constructie masiv:",
+  "choices": [
+   "creste cu cresterea frecventei sunetului",
+   "este constanta, independent de frecventa sunetului",
+   "scade cu cresterea frecventei sunetului",
+   "depinde numai de culoarea finisajului",
+   "este maxima la rezonanta"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 37,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Orbirea in luminotehnica poate fi determinata de:",
+  "choices": [
+   "distributia nefavorabila a luminantelor",
+   "distrugerea nervului optic",
+   "fluxul luminos excesiv al sursei luminoase",
+   "reducerea completa a contrastului",
+   "absorbtia exagerata a tavanului"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 38,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "In sistem substractiv, prin combinarea culorilor primare se obtine:",
+  "choices": [
+   "alb",
+   "negru",
+   "ambra",
+   "albastru pur",
+   "lumina alba"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 39,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Partea superioara a unei constructii inalte se lumineaza de la sol cu proiectoare de exterior cu distributie:",
+  "choices": [
+   "concentrata",
+   "larga",
+   "medie",
+   "difuza omnidirectionala",
+   "nula"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 40,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Perceptia sunetului de catre om este:",
+  "choices": [
+   "liniara",
+   "logaritmica",
+   "exponentiala",
+   "aleatorie",
+   "invers proportionala cu lungimea salii"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 41,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Urechea umana are maximum de sensibilitate in jurul frecventei de:",
+  "choices": [
+   "20 Hz",
+   "200 Hz",
+   "2000 Hz",
+   "20.000 Hz",
+   "30 dB"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 42,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Insumarea unui sunet de 80 dB cu unul de 50 dB produce un sunet de:",
+  "choices": [
+   "circa 80 dB",
+   "130 dB",
+   "circa 85 dB",
+   "50 dB",
+   "30 dB"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 43,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Absorbtia suprafetelor perimetrale ale incaperii influenteaza durata de reverberatie:",
+  "choices": [
+   "invers proportional",
+   "logaritmic",
+   "nu exista o influenta clara",
+   "direct proportional fara limita",
+   "numai prin frecventa proprie a sursei"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 44,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Membranele vibrante realizeaza in principal absorbtia sunetului prin:",
+  "choices": [
+   "vibratia porilor materialului",
+   "vibratii de ansamblu",
+   "reflexie speculara",
+   "transmisie luminoasa"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 45,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Diferenta de nivel normalizata reprezinta:",
+  "choices": [
+   "o estimare a izolarii la zgomot de impact",
+   "o estimare a izolarii la zgomot aerian",
+   "valoarea nivelului sonor rezultat in urma absorbtiei normale in incapere",
+   "durata de reverberatie optima",
+   "coeficientul de absorbtie al materialului"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 46,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Diferenta intre indicii de izolare determinati in laborator si in situ provine de la:",
+  "choices": [
+   "precizia aparatelor de masura, mai mare in laborator",
+   "grija si atentia laborantilor, care nu pot fi aplicate similar pe santier",
+   "caile colaterale de transmitere a sunetului",
+   "temperatura de culoare a lampii",
+   "indicele de redare a culorii"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 47,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Pentru cresterea izolarii la zgomot aerian a unei ferestre, este utila:",
+  "choices": [
+   "tratarea sticlei antireflexie",
+   "umplerea cu argon a spatiului dintre geamuri",
+   "prevederea unor garnituri de etansare",
+   "cresterea transparentei sticlei",
+   "folosirea unei rame fara etansare"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 48,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Pentru a evita ecoul, peretele de fund al salii trebuie:",
+  "choices": [
+   "tratat reflectant",
+   "tratat absorbant",
+   "considerat neimportant",
+   "facut perfect paralel cu scena",
+   "eliminat din calculul acustic"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 49,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Daca se constata aparitia ecoului de fluturare, fenomenul poate fi evitat:",
+  "choices": [
+   "prin indepartarea de la sursa a suprafetelor in cauza",
+   "prin tratarea fonoabsorbanta a uneia dintre suprafete",
+   "prin tratarea fonoizolanta a suprafetelor respective",
+   "prin marirea paralelismului dintre pereti",
+   "prin cresterea reflexiei ambelor suprafete"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 50,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Vederea pe timp de noapte, fata de vederea de zi, este:",
+  "choices": [
+   "mai sensibila",
+   "mai putin sensibila",
+   "identica din punct de vedere al sensibilitatii, dar fara distingerea culorilor",
+   "independenta de luminanta",
+   "dependenta doar de temperatura aerului"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 51,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Pentru spatiile adiacente zonei cu sarcina vizuala, se recomanda un nivel de iluminare:",
+  "choices": [
+   "200 lx, indiferent de iluminarea din zona principala",
+   "inferior cu o treapta fata de zona principala",
+   "superior cu o treapta fata de zona principala",
+   "egal cu iluminatul exterior nocturn",
+   "zero, pentru a evita orbirea"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 52,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Masurile generale de protectie acustica se refera la:",
+  "choices": [
+   "reprezinta investitii suplimentare",
+   "se refera numai la izolarea elementelor de constructie",
+   "includ interventii la nivel de partiu",
+   "sunt exclusiv tratamente de suprafata",
+   "se aplica doar dupa finalizarea cladirii"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 53,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Luxul este unitatea de masura a:",
+  "choices": [
+   "intensitatii luminoase",
+   "fluxului luminos",
+   "iluminarii",
+   "luminantei",
+   "temperaturii de culoare"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 54,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Suprafetele arhitecturale luminoase:",
+  "choices": [
+   "transmit lumina",
+   "reflecta doar lumina",
+   "absorb lumina",
+   "izoleaza acustic prin masa",
+   "reduc durata de reverberatie prin porozitate"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 55,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Un sunet de 2500 Hz poate fi incadrat in categoria sunetelor:",
+  "choices": [
+   "joase",
+   "medii",
+   "inalte",
+   "infrasunete",
+   "sunete fara frecventa"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 56,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Pentru a se percepe o dublare subiectiva a tariei sunetului, intensitatea acestuia trebuie crescuta de:",
+  "choices": [
+   "2 ori",
+   "3 ori",
+   "10 ori",
+   "100 ori",
+   "0,5 ori"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 57,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Durata de reverberatie reprezinta timpul de descrestere a nivelului sonor cu (varianta):",
+  "choices": [
+   "20 dB",
+   "30 dB",
+   "60 dB",
+   "6 dB",
+   "80 dB"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 58,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Coeficientul de absorbtie acustica al unui material:",
+  "choices": [
+   "exprima porozitatea interna a materialului",
+   "reprezinta gradul de absorbtie a suprafetei pe unitatea de arie a materialului",
+   "reprezinta raportul intre energia sonora absorbita si cea incidenta",
+   "reprezinta raportul dintre fluxul luminos transmis si cel incident",
+   "masoara izolarea la zgomot de impact"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 59,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "La frecventa proprie de rezonanta a unui element de constructie:",
+  "choices": [
+   "izolarea la zgomot aerian se reduce",
+   "izolarea la zgomot aerian se mentine constanta",
+   "izolarea la zgomot aerian este maxima",
+   "reverberatia dispare complet"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 60,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Indicele de izolare acustica reprezinta:",
+  "choices": [
+   "aprecierea izolarii la zgomot de impact",
+   "aprecierea absorbtiei la zgomot aerian",
+   "aprecierea izolarii la zgomot aerian",
+   "temperatura de culoare a sursei",
+   "nivelul de iluminare al incaperii"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 61,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Valori mai mari ale L la zgomot de impact:",
+  "choices": [
+   "indica o izolare mai buna la zgomot de impact",
+   "indica o izolare mai slaba la zgomot de impact",
+   "sunt relevante numai daca valorile R manifesta aceeasi tendinta",
+   "indica o redare mai buna a culorilor",
+   "exprima durata de reverberatie"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 62,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Un planseu de beton obisnuit realizeaza izolarea necesara la zgomot de impact in cladiri de locuit:",
+  "choices": [
+   "in majoritatea cazurilor",
+   "niciodata",
+   "in unele cazuri",
+   "numai daca are ferestre etanse",
+   "numai daca este iluminat artificial"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 63,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "In protectia acustica, reverberatia:",
+  "choices": [
+   "trebuie redusa in orice situatie",
+   "este utila in orice situatie",
+   "trebuie calculata",
+   "trebuie ignorata daca sala are ferestre",
+   "depinde numai de culoarea peretilor"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 64,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "In salile de spectacole, peretii laterali convergenti spre fundul salii:",
+  "choices": [
+   "sunt recomandati, deoarece dirijeaza reflexiile spre laterale",
+   "nu sunt recomandati, dirijeaza reflexiile spre laterale",
+   "nu au niciun rol din punctul de vedere al reflexiilor sonore",
+   "anuleaza toate reflexiile laterale",
+   "transforma orice reflexie intr-un spatiu fonoabsorbant"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 65,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "In spatiile destinate muzicii se recomanda ca decalajul intre sunetul direct si cel reflectat sa nu depaseasca:",
+  "choices": [
+   "20 milisecunde",
+   "50 milisecunde",
+   "80 milisecunde",
+   "200 milisecunde",
+   "1 secunda"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 66,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Cele mai eficiente suprafete reflectante de sunet sunt cele plasate:",
+  "choices": [
+   "la partea superioara a peretilor salii",
+   "la partea superioara a peretelui din spatele salii",
+   "in peretii si tavanul prosceniului",
+   "exclusiv in pardoseala din spatele salii",
+   "in zona tratata fonoabsorbant"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 67,
+  "exam": "Acustica & Iluminat (ATE)",
+  "question": "Intr-o sala de conferinte, pericolul de ecou este evitat:",
+  "choices": [
+   "prin tratarea fonoabsorbanta a peretelui din spate al salii",
+   "prin tratarea fonoabsorbanta a intregii pardoseli",
+   "prin pastrarea paralelismului perfect al peretilor",
+   "prin cresterea inaltimii tavanului peste 8 m",
+   "prin eliminarea tuturor materialelor absorbante"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 68,
+  "exam": "Fizica Constructiilor",
+  "question": "Umiditatea relativa este:",
+  "choices": [
+   "cantitatea minima de vapori de apa din aer",
+   "cantitatea reala de vapori de apa din aer",
+   "cantitatea minima de vapori de apa care poate exista in aer in conditiile date",
+   "raportul dintre cantitatea de vapori din aer si cantitatea maxima posibila in conditiile date",
+   "niciunul dintre raspunsurile a-d nu este corect"
+  ],
+  "correctIndex": 3
+ },
+ {
+  "id": 69,
+  "exam": "Fizica Constructiilor",
+  "question": "Umiditatea de saturatie intr-o incapere depinde de:",
+  "choices": [
+   "volumul incaperii",
+   "cantitatea de vapori de apa produsa in incapere",
+   "temperatura aerului",
+   "presiunea partiala a vaporilor de apa",
+   "raspunsurile b si c sunt ambele corecte"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 70,
+  "exam": "Fizica Constructiilor",
+  "question": "Rezistenta la permeabilitatea la vapori:",
+  "choices": [
+   "indica comportamentul la difuzia vaporilor al unui element de constructie",
+   "indica comportamentul la difuzia vaporilor al unui material",
+   "depinde de grosimea straturilor componente ale elementului de constructie sau materialului",
+   "raspunsurile a si c sunt ambele corecte",
+   "toate raspunsurile a, b si c sunt corecte"
+  ],
+  "correctIndex": 3
+ },
+ {
+  "id": 71,
+  "exam": "Fizica Constructiilor",
+  "question": "Metoda statica Glaser de analiza a vaporilor:",
+  "choices": [
+   "ofera doar o indicatie",
+   "furnizeaza rezultate fiabile in anumite situatii reale",
+   "ofera rezultate precise in toate cazurile",
+   "se bazeaza pe o modelare matematica complexa",
+   "este preferata pentru precizia rezultatelor"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 72,
+  "exam": "Fizica Constructiilor",
+  "question": "Daca se prevede o bariera de vapori pentru a preveni aparitia condensului, aceasta trebuie amplasata:",
+  "choices": [
+   "pe fata interioara (calda) a termoizolatiei",
+   "la jumatatea grosimii peretelui",
+   "pe fata exterioara/rece a termoizolatiei",
+   "amplasarea nu este importanta, daca rezistenta la difuzia vaporilor este suficienta",
+   "daca peretele este permeabil la vapori si respira, condensul nu apare si bariera nu este necesara"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 73,
+  "exam": "Fizica Constructiilor",
+  "question": "Intr-o zi calda de vara, intr-o mansarda cu structura usoara:",
+  "choices": [
+   "temperatura se va mentine in limita de confort daca nu exista surse importante de caldura in interior",
+   "temperatura se va mentine in limite de confort daca se realizeaza ventilarea naturala",
+   "temperatura nu va creste excesiv daca termoizolatia este cel putin la valorile minime normate",
+   "temperatura nu va creste excesiv daca ferestrele sunt protejate cu parasolare",
+   "niciunul dintre raspunsurile de mai sus nu este corect"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 74,
+  "exam": "Fizica Constructiilor",
+  "question": "Regimul termic nestationar:",
+  "choices": [
+   "este o ipoteza de calcul termotehnic",
+   "indica o situatie potential periculoasa pentru elementele anvelopei cladirii",
+   "induce disconfort utilizatorilor constructiei",
+   "ia in considerare variatia ciclica a parametrilor termotehnici"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 75,
+  "exam": "Fizica Constructiilor",
+  "question": "O suprafata curbata concava produce:",
+  "choices": [
+   "reflexii sonore divergente",
+   "reflexii sonore convergente",
+   "reflexii sonore paralele",
+   "reflexii sonore difractat-paralele",
+   "niciunul dintre raspunsurile de mai sus nu este corect"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 76,
+  "exam": "Fizica Constructiilor",
+  "question": "Durata de reverberatie a unei sali multifunctionale:",
+  "choices": [
+   "este importanta si trebuie sa aiba o anumita valoare recomandata",
+   "este importanta si trebuie redusa la o valoare cat mai mica",
+   "nu este atat de importanta",
+   "nu este importanta, daca se utilizeaza amplificare",
+   "nici una din variantele de mai sus"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 77,
+  "exam": "Fizica Constructiilor",
+  "question": "In doua sali de dimensiuni egale, durata de reverberatie recomandata:",
+  "choices": [
+   "va fi aceeasi",
+   "este mai mica intr-o sala de concerte fata de un cinematograf",
+   "este mai mica intr-un cinematograf decat intr-o sala de concert",
+   "va fi la fel, la volume egale",
+   "variantele a si d sunt corecte"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 78,
+  "exam": "Fizica Constructiilor",
+  "question": "Peretii salilor de spectacole pe zona scenei se recomanda sa fie:",
+  "choices": [
+   "paraleli",
+   "convergenti",
+   "fonoreflectanti",
+   "fonoabsorbanti",
+   "transparenti pentru sunet"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 79,
+  "exam": "Fizica Constructiilor",
+  "question": "Tavanul salilor de auditie, in treimea din spate a salii, se recomanda in general sa fie:",
+  "choices": [
+   "transparent pentru sunet",
+   "reflectant",
+   "tratat fonoabsorbant",
+   "variantele a si b",
+   "variantele b si c"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 80,
+  "exam": "Fizica Constructiilor",
+  "question": "Variatia in functie de umiditate a conductivitatii termice a unui material:",
+  "choices": [
+   "este normala",
+   "indica o disfunctie a alcatuirii",
+   "nu este posibila",
+   "se poate produce numai la presiune atmosferica redusa",
+   "variantele b si c sunt ambele corecte"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 81,
+  "exam": "Fizica Constructiilor",
+  "question": "Regimul termic nestationar este (varianta):",
+  "choices": [
+   "o ipoteza de calcul termotehnic",
+   "un tip de transfer termic real",
+   "o situatie potential periculoasa pentru elementele anvelopei constructiei",
+   "ia in calcul o variatie ciclica/lunara a parametrilor termici",
+   "variantele b si d sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 82,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru a calcula parametrii in regimul termic nestationar, cea mai importanta este:",
+  "choices": [
+   "rezistenta la transfer termic",
+   "stabilitatea termica",
+   "indicele inertiei termice",
+   "perioada ciclului de variatie a temperaturilor",
+   "variantele b si d sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 83,
+  "exam": "Fizica Constructiilor",
+  "question": "Stabilitatea termica are ca efect reducerea:",
+  "choices": [
+   "duratei ciclului de timp",
+   "amplitudinii variatiei temperaturii interioare",
+   "amplitudinii variatiei temperaturii exterioare",
+   "amplitudinii variatiei umiditatii interioare",
+   "variantele a, b si c sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 84,
+  "exam": "Fizica Constructiilor",
+  "question": "In conditii reale, cantitatea de apa din alcatuirea unui perete:",
+  "choices": [
+   "este constanta pe durata unui an",
+   "variaza neprevizibil pe durata unui an",
+   "variaza ciclic pe durata unui an",
+   "variaza liniar pe durata unui an",
+   "nici una din variantele de mai sus"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 85,
+  "exam": "Fizica Constructiilor",
+  "question": "Dezvoltarea microorganismelor pe fata interioara a elementelor de constructie:",
+  "choices": [
+   "se produce oricum, nu poate fi stopata",
+   "se produce odata cu aparitia condensului",
+   "se produce daca umiditatea relativa depaseste un anumit prag",
+   "variantele a si b sunt corecte",
+   "nici una din variantele a-d nu este corecta"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 86,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru o cladire de locuit obisnuita este necesar calcul la stabilitate termica?",
+  "choices": [
+   "da, intotdeauna",
+   "da, numai in cazuri speciale",
+   "da, in majoritatea cazurilor",
+   "nu",
+   "nici una din variantele a-d nu este corecta"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 87,
+  "exam": "Fizica Constructiilor",
+  "question": "Indicele inertiei termice depinde:",
+  "choices": [
+   "de masivitatea elementului de constructie",
+   "de capacitatea de izolare termica",
+   "de efectul combinat al masivitatii si izolarii termice",
+   "de situatia in care elementul de constructie reflecta radiatia termica",
+   "niciuna dintre variantele de mai sus nu este corecta"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 88,
+  "exam": "Fizica Constructiilor",
+  "question": "O cladire nZEB:",
+  "choices": [
+   "consuma foarte putina energie in exploatare",
+   "trebuie sa foloseasca energie regenerabila",
+   "trebuie sa aiba pierderi reduse de caldura",
+   "variantele a si c sunt corecte",
+   "variantele a, b si c sunt corecte"
+  ],
+  "correctIndex": 3
+ },
+ {
+  "id": 89,
+  "exam": "Fizica Constructiilor",
+  "question": "Conform legii conservarii fluxului luminos, egala cu fluxul incident este:",
+  "choices": [
+   "suma fluxurilor reflectat, absorbit si transmis",
+   "suma fluxului absorbit si transmis, minus cel reflectat",
+   "suma fluxului reflectat si absorbit, minus cel transmis",
+   "suma fluxului reflectat si transmis, minus cel absorbit",
+   "nici una din variantele a-d nu este corecta"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 90,
+  "exam": "Fizica Constructiilor",
+  "question": "Lampile cu halogeni produc lumina:",
+  "choices": [
+   "prin inductie",
+   "prin incandescenta",
+   "prin agitatie moleculara",
+   "prin descarcari in gaze de joasa presiune",
+   "prin descarcari in gaze de inalta presiune"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 91,
+  "exam": "Fizica Constructiilor",
+  "question": "Poluarea vizuala, ca fenomen al iluminatului exterior, are implicatii negative asupra:",
+  "choices": [
+   "zonelor pietonale",
+   "circulatiei automobilelor",
+   "studiilor de astronomie",
+   "variantele a si b sunt corecte",
+   "variantele a, b, c sunt toate corecte"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 92,
+  "exam": "Fizica Constructiilor",
+  "question": "Se da o sursa care emite un flux luminos constant. Iluminarea pe un plan la distanta d:",
+  "choices": [
+   "nu depinde de distanta d",
+   "depinde invers proportional de distanta d",
+   "variaza logaritmic functie de distanta d",
+   "variaza exponential in raport cu distanta d",
+   "variaza cu inversul patratului distantei d"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 93,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru o sala de auditie se recomanda:",
+  "choices": [
+   "in plan, forme de detaliu cat mai regulate",
+   "proportie de 1/1 intre lungime si inaltime",
+   "evitarea formelor foarte regulate",
+   "variantele a si b",
+   "nici una din variantele a-d"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 94,
+  "exam": "Fizica Constructiilor",
+  "question": "Pozitia optima recomandata pentru suprafata ocupata de public in sectiune:",
+  "choices": [
+   "sa aiba o panta similara cu cea de vizibilitate",
+   "sa aiba o panta mai mare decat cea de vizibilitate",
+   "sa fie orizontala",
+   "sa aiba o panta de maxim 30%",
+   "variantele a si d sunt ambele corecte"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 95,
+  "exam": "Fizica Constructiilor",
+  "question": "Reflexia sonora difuza presupune:",
+  "choices": [
+   "reflexia similara razelor luminoase (unghi de incidenta egal cu unghiul de reflexie)",
+   "reflexia razelor imprastiate in mai multe directii",
+   "anularea reflexiei datorita absorbtiei",
+   "raze reflectate paralele",
+   "nici una din variantele a-d"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 96,
+  "exam": "Fizica Constructiilor",
+  "question": "Ecoul reprezinta:",
+  "choices": [
+   "receptionarea unei reflexii sonore cu intarziere",
+   "raza sonora intoarsa la auditor dupa minim 3 reflexii succesive",
+   "raza sonora intoarsa la auditor dupa mai mult de 10 reflexii succesive",
+   "receptionarea unei raze sonore reflectate din tavanul inalt",
+   "variantele b si c"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 97,
+  "exam": "Fizica Constructiilor",
+  "question": "Un efect al reverberatiei este:",
+  "choices": [
+   "reducerea nivelului sonor in partea din spate a unei sali de auditie",
+   "cresterea nivelului sonor intr-un spatiu inchis",
+   "perceperea unui sunet de fond cu o intarziere apreciabila",
+   "persistenta sunetului in spatiu dupa oprirea sursei",
+   "variantele b si d"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 98,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru spatiile de auditie, durata de reverberatie:",
+  "choices": [
+   "nu este atat de importanta",
+   "trebuie redusa la o valoare minima",
+   "trebuie sa se incadreze in limite recomandate",
+   "este recomandat sa fie cat mai mica",
+   "variantele b si d"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 99,
+  "exam": "Fizica Constructiilor",
+  "question": "In zona scenei, peretii salilor de spectacole se recomanda sa fie:",
+  "choices": [
+   "fonoreflectanti",
+   "fonoabsorbanti",
+   "fonoizolanti",
+   "transparenti pentru sunet",
+   "nu sunt recomandari speciale"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 100,
+  "exam": "Fizica Constructiilor",
+  "question": "In incaperi destinate vorbirii, o durata de reverberatie mai mare decat optimul:",
+  "choices": [
+   "reduce inteligibilitatea",
+   "creste inteligibilitatea",
+   "creste nivelul sonor, deci imbunatateste acustica",
+   "reduce nivelul sonor, deci inrautateste acustica",
+   "niciunul dintre raspunsurile de mai sus nu este corect"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 101,
+  "exam": "Fizica Constructiilor",
+  "question": "Structurile de tip rezonator au absorbtie sonora mai buna:",
+  "choices": [
+   "la frecvente joase",
+   "la frecvente medii",
+   "la frecvente inalte",
+   "aproximativ egal la toate frecventele",
+   "nu sunt bune absorbante sonore la nicio frecventa"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 102,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru a asigura un zgomot de fond redus intr-o sala de auditie:",
+  "choices": [
+   "trebuie asigurata valoarea minima a indicelui de izolare pentru pereti si plansee",
+   "sala nu trebuie sa fie adiacenta fatadei",
+   "este utila prevederea unor grile mici de ventilatie",
+   "variantele a si b sunt ambele corecte",
+   "variantele a, b si c sunt toate corecte"
+  ],
+  "correctIndex": 3
+ },
+ {
+  "id": 103,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru sali mici cu destinatie acustica, forma in plan:",
+  "choices": [
+   "se recomanda sa fie cat mai regulata posibil",
+   "se recomanda sa nu fie regulata",
+   "nu influenteaza calitatile acustice",
+   "se recomanda sa fie apropiata de raportul de aur",
+   "variantele b si d sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 104,
+  "exam": "Fizica Constructiilor",
+  "question": "Cantitatea maxima de vapori de apa care poate exista in aer in anumite conditii este:",
+  "choices": [
+   "umiditate de saturatie",
+   "umiditate relativa",
+   "umiditate absoluta",
+   "variantele a si b sunt ambele corecte",
+   "niciunul dintre raspunsurile a-d nu este corect"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 105,
+  "exam": "Fizica Constructiilor",
+  "question": "Cand punctul de roua este atins pe suprafata unui perete:",
+  "choices": [
+   "apare o situatie periculoasa pentru integritatea peretelui",
+   "incepe sa apara condensul",
+   "confortul interior este redus",
+   "variantele a si b sunt ambele corecte",
+   "toate raspunsurile a, b si c sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 106,
+  "exam": "Fizica Constructiilor",
+  "question": "Factorul de permeabilitate la vapori exprima:",
+  "choices": [
+   "comportamentul la difuzia vaporilor al unui element de constructie",
+   "comportamentul la difuzia vaporilor al unui material",
+   "de cate ori un material este mai putin permeabil la vapori decat aerul",
+   "capacitatea unui material de a acumula vapori de apa",
+   "variantele c si d sunt ambele corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 107,
+  "exam": "Fizica Constructiilor",
+  "question": "Folosind metoda statica Glaser de analiza a vaporilor:",
+  "choices": [
+   "se determina cantitatea de apa provenita din condens",
+   "se identifica luna din an in care poate aparea condensul",
+   "se identifica zona din perete unde se produce condensul",
+   "se determina presiunile partiale ale vaporilor si presiunile de saturatie",
+   "variantele c si d sunt ambele corecte"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 108,
+  "exam": "Fizica Constructiilor",
+  "question": "Daca analiza transferului de vapori indica risc de condens:",
+  "choices": [
+   "se recomanda amplasarea unei bariere de vapori pe fata interioara a termoizolatiei",
+   "se recomanda amplasarea barierei la jumatatea grosimii peretelui",
+   "se recomanda amplasarea barierei pe exteriorul termoizolatiei",
+   "se recomanda cresterea termoizolatiei",
+   "variantele a si d sunt ambele corecte"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 109,
+  "exam": "Fizica Constructiilor",
+  "question": "Un efect al stabilitatii termice este reducerea amplitudinii variatiei:",
+  "choices": [
+   "umiditatii relative",
+   "temperaturii interioare",
+   "temperaturii exterioare",
+   "variantelor a si b",
+   "variantelor a, b si c"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 110,
+  "exam": "Fizica Constructiilor",
+  "question": "O suprafata curbata convexa genereaza:",
+  "choices": [
+   "reflexii sonore divergente",
+   "reflexii sonore convergente",
+   "reflexii sonore paralele",
+   "reflexii sonore divergent-paralele",
+   "niciunul dintre raspunsurile de mai sus nu este corect"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 111,
+  "exam": "Fizica Constructiilor",
+  "question": "Unul dintre efectele reverberatiei este:",
+  "choices": [
+   "mentinerea sunetului in incapere pentru un timp dupa oprirea sursei",
+   "reducerea graduala a nivelului sonor dupa oprirea sursei",
+   "oprirea imediata a sunetului cand sursa este oprita",
+   "variantele a si b sunt ambele corecte",
+   "niciuna dintre variantele de mai sus nu este corecta"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 112,
+  "exam": "Fizica Constructiilor",
+  "question": "Structurile cu membrane vibrante au absorbtie sonora mai buna:",
+  "choices": [
+   "la frecvente joase",
+   "la frecvente medii",
+   "la frecvente inalte",
+   "aproximativ egal la toate frecventele",
+   "nu sunt bune absorbante sonore la nicio frecventa"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 113,
+  "exam": "Fizica Constructiilor",
+  "question": "Durata de reverberatie intr-un spatiu cu destinatie acustica:",
+  "choices": [
+   "trebuie redusa la o valoare cat mai mica posibil",
+   "trebuie mentinuta in anumite limite recomandate",
+   "nu este de importanta daca geometria incaperii este corecta",
+   "nu este importanta daca se foloseste amplificare sonora",
+   "variantele c si d sunt simultan corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 114,
+  "exam": "Fizica Constructiilor",
+  "question": "Pentru a evita ecoul, peretele din spate al unei sali de spectacol poate fi tratat:",
+  "choices": [
+   "reflectant",
+   "absorbant",
+   "cu difuzor",
+   "variantele b si c sunt corecte",
+   "variantele a si c sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 115,
+  "exam": "Fizica Constructiilor",
+  "question": "O cladire nZEB are:",
+  "choices": [
+   "consum de energie neregenerabila egal cu 0",
+   "consum de energie primara egal cu 0",
+   "consum de energie apropiat de 0",
+   "emisii de CO2 egale cu 0",
+   "variantele c si d sunt ambele corecte"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 116,
+  "exam": "Fizica Constructiilor",
+  "question": "Declaratia de mediu a produsului, EPD, pentru un produs de constructie:",
+  "choices": [
+   "indica impactul asupra mediului pe durata de viata a produsului",
+   "este emisa de un organism neutru",
+   "contine date despre performanta actuala a produsului",
+   "niciuna dintre variantele de mai sus nu este corecta",
+   "variantele a-c sunt corecte"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 117,
+  "exam": "Fizica Constructiilor",
+  "question": "Marimea de baza in iluminat folosita pentru standardizare si calcul este:",
+  "choices": [
+   "fluxul luminos",
+   "distributia fluxului luminos",
+   "nivelul de iluminare",
+   "intensitatea luminoasa",
+   "luminanta suprafetei de lucru"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 118,
+  "exam": "Fizica Constructiilor",
+  "question": "Sensibilitatea spectrala reprezinta:",
+  "choices": [
+   "variatia sensibilitatii ochiului in functie de nivelul de iluminare",
+   "variatia sensibilitatii ochiului in functie de lungimea de unda a luminii",
+   "variatia sensibilitatii ochiului in functie de temperatura de culoare a surselor de lumina",
+   "variantele a si b sunt corecte",
+   "toate variantele a, b si c sunt corecte"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 119,
+  "exam": "Fizica Constructiilor",
+  "question": "Aparitia ecoului de fluturare este cauzata de:",
+  "choices": [
+   "inclinarea prea mare a peretilor laterali ai scenei/podiumului",
+   "paralelismul dintre doua suprafete excesiv fonoabsorbante",
+   "paralelismul dintre doua suprafete reflectante opuse, in zona sursei sonore",
+   "paralelismul dintre doua suprafete reflectante opuse, in zona publicului",
+   "variantele c si d sunt ambele corecte"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 120,
+  "exam": "Fizica Constructiilor",
+  "question": "Panourile suspendate in zona scenei, in sali inalte:",
+  "choices": [
+   "nu ajuta la controlul reverberatiei",
+   "reduc durata de reverberatie",
+   "cresc durata de reverberatie",
+   "asigura reflexii rapide si imbunatatesc claritatea auzirii",
+   "variantele a si d sunt corecte"
+  ],
+  "correctIndex": 3
+ },
+ {
+  "id": 121,
+  "exam": "Fizica Constructiilor",
+  "question": "O casa pasiva:",
+  "choices": [
+   "are consum de energie neregenerabila egal cu 0",
+   "are un consum foarte redus de energie primara",
+   "are un confort termic foarte inalt",
+   "are emisii de CO2 egale cu 0",
+   "variantele b si c sunt ambele corecte"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 122,
+  "exam": "Fizica Constructiilor",
+  "question": "Potentialul de incalzire globala:",
+  "choices": [
+   "indica impactul asupra mediului al unui produs de constructii",
+   "este exprimat in kg CO2 echivalent",
+   "este o marime folosita in analiza ciclului de viata, LCA",
+   "variantele a si b sunt corecte",
+   "variantele a, b si c sunt toate corecte"
+  ],
+  "correctIndex": 4
+ },
+ {
+  "id": 123,
+  "exam": "Acustica & Termotehnica",
+  "question": "Raportul lungimilor de unda minime si maxime a undei luminoase este aproximativ de:",
+  "choices": [
+   "1:2",
+   "1:4",
+   "1:50"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 124,
+  "exam": "Acustica & Termotehnica",
+  "question": "Luminanta se refera la:",
+  "choices": [
+   "stralucirea unei suprafete",
+   "capacitatea de absorbtie a luminii de catre o suprafata",
+   "indicele de reflectie a luminii"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 125,
+  "exam": "Acustica & Termotehnica",
+  "question": "Domeniul de frecvente audibile este:",
+  "choices": [
+   "2...24000 Hz",
+   "16...20000 Hz",
+   "65...16000 Hz"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 126,
+  "exam": "Acustica & Termotehnica",
+  "question": "Viteza sunetului in aer:",
+  "choices": [
+   "creste cu cresterea temperaturii",
+   "scade cu cresterea temperaturii",
+   "nu depinde de temperatura"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 127,
+  "exam": "Acustica & Termotehnica",
+  "question": "Conform legii conservarii fluxului luminos este constanta:",
+  "choices": [
+   "suma fluxului absorbit si transmis, minus cel reflectat",
+   "suma fluxului reflectat si absorbit, minus cel transmis",
+   "suma fluxurilor reflectat, absorbit si transmis"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 128,
+  "exam": "Acustica & Termotehnica",
+  "question": "Sensibilitatea spectrala reprezinta:",
+  "choices": [
+   "o variatie a sensibilitatii ochiului in functie de nivelul de iluminare",
+   "o variatie a sensibilitatii ochiului in functie de lungimea de unda a luminii",
+   "o variatie a sensibilitatii ochiului in functie de temperatura de culoare a luminii surselor"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 129,
+  "exam": "Acustica & Termotehnica",
+  "question": "Unghiul de protectie vizuala se refera la:",
+  "choices": [
+   "corpuri de iluminat cu distributie superioara",
+   "corpuri de iluminat cu distributie inferioara",
+   "sursa de lumina"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 130,
+  "exam": "Acustica & Termotehnica",
+  "question": "Orbirea (luminotehnica) poate fi determinata de:",
+  "choices": [
+   "distribuirea nefavorabila a luminantelor",
+   "distrugerea nervului optic",
+   "fluxul luminos excesiv al sursei luminoase"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 131,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru o sursa data, iluminarea pe un plan oarecare:",
+  "choices": [
+   "depinde proportional de distanta fata de sursa",
+   "variaza cu patratul distantei",
+   "nu este influentata de distanta"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 132,
+  "exam": "Acustica & Termotehnica",
+  "question": "Conform legii Weber-Fechner, perceptia luminoasa urmeaza in raport cu cresterea stimulului o crestere:",
+  "choices": [
+   "liniara",
+   "exponentiala",
+   "logaritmica"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 133,
+  "exam": "Acustica & Termotehnica",
+  "question": "In Romania, nivelul normat (minim) al iluminarii boltii ceresti este considerat:",
+  "choices": [
+   "1000 lx",
+   "4000 lx",
+   "10000 lx"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 134,
+  "exam": "Acustica & Termotehnica",
+  "question": "Membranele vibrante absorb cel mai bine sunetele:",
+  "choices": [
+   "joase",
+   "medii",
+   "inalte"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 135,
+  "exam": "Acustica & Termotehnica",
+  "question": "Polistirenul expandat este:",
+  "choices": [
+   "un bun fonoabsorbant",
+   "un bun fonoizolator",
+   "un material fara proprietati acustice utile"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 136,
+  "exam": "Acustica & Termotehnica",
+  "question": "Insumarea unui sunet de 80 dB cu unul de 50 dB produce un sunet de:",
+  "choices": [
+   "aproximativ 80 dB",
+   "130 dB",
+   "aprox 85 dB"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 137,
+  "exam": "Acustica & Termotehnica",
+  "question": "Perceptia subiectiva a tariei sunetelor:",
+  "choices": [
+   "variaza cu distanta fata de sursa",
+   "este independenta de frecventa",
+   "depinde de frecventa"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 138,
+  "exam": "Acustica & Termotehnica",
+  "question": "Dublarea grosimii unui perete are ca efect:",
+  "choices": [
+   "cresterea cu 6 dB a izolarii la zgomot aerian",
+   "o izolare similara la zgomot aerian",
+   "cresterea cu 10 dB a izolarii la zgomot aerian"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 139,
+  "exam": "Acustica & Termotehnica",
+  "question": "Indicele de atenuare acustica reprezinta:",
+  "choices": [
+   "aprecierea izolarii la zgomot de impact",
+   "aprecierea izolarii la zgomot aerian",
+   "aprecierea atenuarii sonore prin absorbtie"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 140,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru cresterea izolarii la zgomot aerian a unei usi pline este utila:",
+  "choices": [
+   "prevederea unor garnituri de etansare",
+   "prevederea unui sistem de autoinchidere",
+   "pozitionarea usii adiacent fetei peretelui din camera linistita"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 141,
+  "exam": "Acustica & Termotehnica",
+  "question": "Logaritmul zecimal al unui numar reprezinta:",
+  "choices": [
+   "puterea la care trebuie ridicat 10 pentru a obtine numarul",
+   "exponentul numarului in notatie stiintifica zecimala",
+   "partea zecimala a numarului"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 142,
+  "exam": "Acustica & Termotehnica",
+  "question": "Radiatia termica este:",
+  "choices": [
+   "emisa de orice corp cu temperatura peste 0 K",
+   "o radiatie electromagnetica",
+   "o masura a nivelului de insorire"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 143,
+  "exam": "Acustica & Termotehnica",
+  "question": "Migratia caldurii in interiorul unui corp solid se poate realiza prin:",
+  "choices": [
+   "conductie",
+   "convectie",
+   "radiatie"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 144,
+  "exam": "Acustica & Termotehnica",
+  "question": "Relatia intre umiditatea de saturatie si temperatura:",
+  "choices": [
+   "este liniara (proportionala)",
+   "este exponentiala",
+   "este logaritmica"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 145,
+  "exam": "Acustica & Termotehnica",
+  "question": "Confortul termic stationar este:",
+  "choices": [
+   "realizarea inconstienta a termoreglarii",
+   "realizarea constienta a termoreglarii",
+   "echilibrarea schimburilor termice cu mediul"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 146,
+  "exam": "Acustica & Termotehnica",
+  "question": "Care din urmatoarele reprezinta conditie de confort termic:",
+  "choices": [
+   "temperatura aerului din incaperi",
+   "rezistenta la transfer termic a inchiderilor",
+   "temperatura aerului exterior"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 147,
+  "exam": "Acustica & Termotehnica",
+  "question": "Umiditatea absoluta este:",
+  "choices": [
+   "raportul dintre umiditatea de saturatie si temperatura",
+   "masa vaporilor de apa din aer raportata la presiunea atmosferica",
+   "cantitatea de vapori de apa din aer la un moment dat"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 148,
+  "exam": "Acustica & Termotehnica",
+  "question": "O alcatuire corecta din punct de vedere al transferului de vapori:",
+  "choices": [
+   "are stratul termoizolant la exterior",
+   "este fara strat termoizolant",
+   "are stratul termoizolant la interior"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 149,
+  "exam": "Acustica & Termotehnica",
+  "question": "La calculele higrotermice preliminare, efectul puntilor termice:",
+  "choices": [
+   "nu e necesar sa fie luat in considerare",
+   "se ia in calcul prin reducerea globala a rezistentelor termice",
+   "se ia in calcul prin formule si determinari complexe"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 150,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru a reduce efectul de punte termica, amplasarea tamplariei intr-un perete omogen este mai bine sa fie:",
+  "choices": [
+   "la fata interioara a peretelui",
+   "la jumatatea grosimii peretelui",
+   "la fata exterioara a peretelui"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 151,
+  "exam": "Acustica & Termotehnica",
+  "question": "Este permisa producerea condensului pe suprafata interioara a elementelor de constructie?",
+  "choices": [
+   "da, daca se face o ventilare interioara constanta",
+   "da, daca nu se produce acumulare progresiva",
+   "nu, in nicio situatie"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 152,
+  "exam": "Acustica & Termotehnica",
+  "question": "Regimul termic stationar este:",
+  "choices": [
+   "o ipoteza de calcul termotehnic",
+   "o perioada din an cu temperatura constanta",
+   "o etapa temporara a transferului termic"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 153,
+  "exam": "Acustica & Termotehnica",
+  "question": "O bariera de vapori amplasata pe fata exterioara (rece) a termoizolatiei:",
+  "choices": [
+   "este corect amplasata, reduce transferul de vapori",
+   "poate crea probleme, daca nu e bine realizata",
+   "nu este corect amplasata"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 154,
+  "exam": "Acustica & Termotehnica",
+  "question": "Temperatura fetei interioare a unui element de constructie este necesara pentru:",
+  "choices": [
+   "estimarea confortului interior",
+   "estimarea consumurilor de energie",
+   "estimarea riscului de aparitie a radiatiilor termice prea reci sau prea calde"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 155,
+  "exam": "Acustica & Termotehnica",
+  "question": "Valoarea numarului de schimburi de aer pe ora:",
+  "choices": [
+   "este limitata la 0,5 din motive igienice",
+   "este bine sa fie cat mai aproape de 0 pentru a reduce pierderile de caldura",
+   "poate fi redusa sub 0,5 doar cu masuri speciale de etansare a ferestrelor"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 156,
+  "exam": "Acustica & Termotehnica",
+  "question": "Elementul de calcul cel mai important pentru regimul termic nestationar este:",
+  "choices": [
+   "rezistenta la transfer termic",
+   "stabilitatea termica",
+   "indicele inertiei termice"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 157,
+  "exam": "Acustica & Termotehnica",
+  "question": "Un perete omogen corect din punct de vedere al rezistentei termice poate fi realizat din:",
+  "choices": [
+   "caramida eficienta 37,5 cm grosime",
+   "beton armat 25 cm + BCA 15 cm la exterior",
+   "blocuri ceramice tip Porotherm 38 cm"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 158,
+  "exam": "Acustica & Termotehnica",
+  "question": "Diagrama solara este:",
+  "choices": [
+   "reprezentarea traseului Soarelui pe bolta cereasca",
+   "reprezentarea boltii ceresti vazute dintr-un punct",
+   "o proiectie a pozitiilor determinante ale Soarelui pe durata unui an"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 159,
+  "exam": "Acustica & Termotehnica",
+  "question": "Azimutul solar este:",
+  "choices": [
+   "unghiul facut de razele Soarelui fata de planul orizontal",
+   "unghiul facut de razele Soarelui in plan orizontal fata de directia sud",
+   "unghiul facut de directia Pamant-Soare cu directia axei polilor"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 160,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru o fatada orientata spre sud sunt mai eficiente:",
+  "choices": [
+   "parasolare orizontale",
+   "parasolare verticale",
+   "parasolare inclinate"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 161,
+  "exam": "Acustica & Termotehnica",
+  "question": "Lumenul este unitate de masura a:",
+  "choices": [
+   "intensitatii luminoase - candela",
+   "fluxului luminos - lumen",
+   "iluminarii - lux"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 162,
+  "exam": "Acustica & Termotehnica",
+  "question": "Stabilitatea termica are ca efect:",
+  "choices": [
+   "reducerea amplitudinii variatiei umiditatii relative",
+   "reducerea amplitudinii variatiei temperaturii interioare",
+   "reducerea variatiei ciclului de timp"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 163,
+  "exam": "Acustica & Termotehnica",
+  "question": "Temperatura de culoare de 3000K este:",
+  "choices": [
+   "calda",
+   "intermediara",
+   "rece"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 164,
+  "exam": "Acustica & Termotehnica",
+  "question": "Un dezavantaj major al lampilor cu incandescenta este:",
+  "choices": [
+   "evaporarea fuzibilului",
+   "evaporarea filamentului de wolfram",
+   "evaporarea gazului de umplere"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 165,
+  "exam": "Acustica & Termotehnica",
+  "question": "Marimea de baza in iluminat, pentru normare, este:",
+  "choices": [
+   "nivelul de iluminare",
+   "fluxul luminos",
+   "distributia fluxului luminos"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 166,
+  "exam": "Acustica & Termotehnica",
+  "question": "Vechile teatre romane aveau o acustica buna:",
+  "choices": [
+   "datorita pantei mari a locurilor publicului",
+   "datorita amplasarii semicirculare a spectatorilor",
+   "nu aveau, in realitate, o acustica buna"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 167,
+  "exam": "Acustica & Termotehnica",
+  "question": "Reflexia sonora dintr-o fata curba convexa:",
+  "choices": [
+   "produce raze sonore paralele",
+   "concentreaza razele sonore",
+   "disperseaza razele sonore"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 168,
+  "exam": "Acustica & Termotehnica",
+  "question": "Fenomenul de rezonanta:",
+  "choices": [
+   "implica reflexia razelor sonore in faza",
+   "reprezinta coincidenta cu frecventa proprie",
+   "reprezinta o anulare a vibratiei unui corp"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 169,
+  "exam": "Acustica & Termotehnica",
+  "question": "Aparitia ecoului de fluturare se datoreaza:",
+  "choices": [
+   "inclinarii prea mari a peretilor laterali ai scenei/podiumului (arlechini)",
+   "paralelismului dintre doua suprafete tratate fonoabsorbant",
+   "paralelismului dintre doua suprafete reflectante opuse, in zona sursei de sunet"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 170,
+  "exam": "Acustica & Termotehnica",
+  "question": "Un sunet reflectat cu un decalaj de 60 milisecunde intr-un spatiu destinat vorbirii:",
+  "choices": [
+   "este perceput ca ecou",
+   "este perceput ca intarire a sunetului direct",
+   "nu este perceput distinct"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 171,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru a nu se produce ecou, peretele din spate al unei sali de conferinte:",
+  "choices": [
+   "trebuie tratat reflectant",
+   "trebuie tratat absorbant",
+   "poate fi tratat fie reflectant, fie absorbant"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 172,
+  "exam": "Acustica & Termotehnica",
+  "question": "Reprezinta ecou:",
+  "choices": [
+   "receptionarea unei raze sonore reflectate din peretele din spate",
+   "receptionarea unei raze sonore dupa mai mult de 3 reflexii succesive",
+   "receptionarea unei reflexii sonore cu mare intarziere"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 173,
+  "exam": "Acustica & Termotehnica",
+  "question": "Reverberatia are ca efect:",
+  "choices": [
+   "reducerea nivelului sonor in treimea din spate a unei sali",
+   "intarirea sunetului general intr-un spatiu inchis",
+   "perceperea sunetului in spatiu cu o intarziere apreciabila"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 174,
+  "exam": "Acustica & Termotehnica",
+  "question": "Durata de reverberatie intr-un spatiu cu destinatie acustica:",
+  "choices": [
+   "trebuie mentinuta in anumite limite recomandate",
+   "trebuie redusa la o valoare cat mai mica",
+   "nu este atat de importanta"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 175,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru sali cu volume egale, durata de reverberatie recomandata:",
+  "choices": [
+   "este mai mica intr-o sala de concerte fata de un teatru",
+   "este mai mare intr-o sala de concerte fata de un teatru",
+   "este aceeasi indiferent de functiune"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 176,
+  "exam": "Acustica & Termotehnica",
+  "question": "In zona podiumului unei sali de conferinte, peretii se recomanda sa fie:",
+  "choices": [
+   "fonoreflectanti",
+   "fonoabsorbanti",
+   "transparenti pentru sunet"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 177,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru jumatatea din fata a salii, tavanul salilor de spectacole se recomanda sa fie:",
+  "choices": [
+   "transparent pentru sunet",
+   "reflectant",
+   "tratat fonoabsorbant"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 178,
+  "exam": "Acustica & Termotehnica",
+  "question": "Amplasarea apropiata a doua surse ce emit aceeasi putere sonora conduce la:",
+  "choices": [
+   "un nivel sonor de doua ori mai mare decat cel produs de o singura sursa",
+   "aproximativ acelasi nivel",
+   "un nivel sonor mai mare cu 3 dB decat cel produs de o singura sursa"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 179,
+  "exam": "Acustica & Termotehnica",
+  "question": "Acumularea de umiditate in materiale:",
+  "choices": [
+   "este o functie liniara",
+   "este o functie neliniara",
+   "este o functie liniara pana la saturatie"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 180,
+  "exam": "Acustica & Termotehnica",
+  "question": "Conductivitatea termica a unui material variaza cu umiditatea?",
+  "choices": [
+   "da",
+   "nu",
+   "doar in apropierea presiunii de saturatie"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 181,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pe suprafata interioara a elementelor de constructie microorganismele:",
+  "choices": [
+   "se dezvolta cand umiditatea depaseste un anumit prag",
+   "se dezvolta numai la aparitia condensului",
+   "se dezvolta oricum, nu pot fi impiedicate"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 182,
+  "exam": "Acustica & Termotehnica",
+  "question": "Conform legii Weber-Fechner, perceptia senzatiei calorice urmeaza in raport cu cresterea stimulului:",
+  "choices": [
+   "o crestere liniara",
+   "o crestere exponentiala",
+   "o crestere logaritmica"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 183,
+  "exam": "Acustica & Termotehnica",
+  "question": "Estimarea transferului termic prin conductie al unui element de constructie se face:",
+  "choices": [
+   "prin rezistenta la transfer termic",
+   "prin coeficientul de conductivitate termica",
+   "prin densitatea sarcinii termice"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 184,
+  "exam": "Acustica & Termotehnica",
+  "question": "Estimarea confortului termic se poate face prin:",
+  "choices": [
+   "votul mediu previzibil",
+   "sondaje de opinie",
+   "analiza matematica logaritmica"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 185,
+  "exam": "Acustica & Termotehnica",
+  "question": "Reprezinta conditie de confort termic:",
+  "choices": [
+   "rezistenta la transfer termic a inchiderilor",
+   "viteza curentilor de aer",
+   "temperatura aerului exterior"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 186,
+  "exam": "Acustica & Termotehnica",
+  "question": "Umiditatea relativa este:",
+  "choices": [
+   "cantitatea de vapori de apa din aer la un moment dat",
+   "raportul intre umiditatea efectiva si cea de saturatie",
+   "relatia intre umiditatea de saturatie si temperatura"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 187,
+  "exam": "Acustica & Termotehnica",
+  "question": "O punte termica reprezinta:",
+  "choices": [
+   "o zona cu transfer termic marit",
+   "o zona cu transfer termic redus",
+   "o zona fara transfer termic"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 188,
+  "exam": "Acustica & Termotehnica",
+  "question": "Este permisa aparitia puntilor termice strapunse?",
+  "choices": [
+   "nu",
+   "da",
+   "doar in anumite situatii"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 189,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru a reduce efectul de punte termica, amplasarea tamplariei intr-un perete cu strat termoizolator este mai bine sa fie:",
+  "choices": [
+   "la fata interioara a peretelui",
+   "in dreptul termoizolatiei",
+   "la fata exterioara a peretelui"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 190,
+  "exam": "Acustica & Termotehnica",
+  "question": "O bariera de vapori amplasata pe fata interioara (calda) a termoizolatiei:",
+  "choices": [
+   "este corect amplasata, reduce transferul de vapori",
+   "este corect amplasata numai daca stratul termoizolant e impermeabil la vapori",
+   "nu este corect amplasata"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 191,
+  "exam": "Acustica & Termotehnica",
+  "question": "Temperatura fetei interioare a unui element de constructie pe timp de iarna poate fi:",
+  "choices": [
+   "egala cu cea a aerului interior",
+   "mai mica decat cea a aerului interior",
+   "mai mare decat cea a aerului interior"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 192,
+  "exam": "Acustica & Termotehnica",
+  "question": "Coeficientul global de izolare termica G:",
+  "choices": [
+   "ia in calcul pierderile totale de caldura ale constructiei",
+   "exprima izolarea termica de ansamblu a constructiei",
+   "cuantifica totalul transferului termic si de vapori pe suprafata constructiei"
+  ],
+  "correctIndex": 1
+ },
+ {
+  "id": 193,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru a imbunatati substantial comportarea termica a unei ferestre:",
+  "choices": [
+   "se utilizeaza geam dublu termoizolant cu tratament low-e",
+   "se utilizeaza geam dublu termoizolant umplut cu argon",
+   "se utilizeaza tamplarie cuplata cu geamuri de etansare"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 194,
+  "exam": "Acustica & Termotehnica",
+  "question": "Un perete omogen corect din punct de vedere al rezistentei termice poate fi realizat din:",
+  "choices": [
+   "BCA 45 cm grosime",
+   "caramida eficienta 37,5 cm grosime",
+   "blocuri ceramice tip Porotherm 30 cm"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 195,
+  "exam": "Acustica & Termotehnica",
+  "question": "Unghiul format de axa polilor Pamantului cu planul orbitei este:",
+  "choices": [
+   "66,5 grade",
+   "90 grade",
+   "variabil intre +/- 66,5 grade"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 196,
+  "exam": "Acustica & Termotehnica",
+  "question": "Inaltimea soarelui este:",
+  "choices": [
+   "unghiul facut de razele soarelui fata de planul orizontului",
+   "unghiul facut de directia Pamant-Soare cu directia axei polilor",
+   "unghiul facut de razele soarelui fata de verticala locului"
+  ],
+  "correctIndex": 0
+ },
+ {
+  "id": 197,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru camerele de hotel, normativele din Romania:",
+  "choices": [
+   "impun utilizarea sistemelor de protectie solara",
+   "nu fac referire la utilizarea sistemelor de protectie solara",
+   "recomanda utilizarea sistemelor de protectie solara"
+  ],
+  "correctIndex": 2
+ },
+ {
+  "id": 198,
+  "exam": "Acustica & Termotehnica",
+  "question": "Pentru o fatada orientata spre vest sunt mai eficiente:",
+  "choices": [
+   "parasolare orizontale",
+   "parasolare verticale",
+   "parasolare orizontale si verticale in egala masura"
+  ],
+  "correctIndex": 1
+ }
+]

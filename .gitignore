@@ -1,0 +1,10 @@
+# Dependencies (none needed at runtime, but just in case)
+node_modules/
+
+# Build / deploy output
+dist/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
